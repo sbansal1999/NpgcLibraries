@@ -1,0 +1,13 @@
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\obj\Debug\netcoreapp3.1\NpgcLibraries.csprojAssemblyReference.cache
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\obj\Debug\netcoreapp3.1\NpgcLibraries.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\obj\Debug\netcoreapp3.1\NpgcLibraries.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\obj\Debug\netcoreapp3.1\NpgcLibraries.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\bin\Debug\netcoreapp3.1\NpgcLibraries.exe
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\bin\Debug\netcoreapp3.1\NpgcLibraries.deps.json
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\bin\Debug\netcoreapp3.1\NpgcLibraries.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\bin\Debug\netcoreapp3.1\NpgcLibraries.runtimeconfig.dev.json
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\bin\Debug\netcoreapp3.1\NpgcLibraries.dll
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\bin\Debug\netcoreapp3.1\NpgcLibraries.pdb
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\obj\Debug\netcoreapp3.1\NpgcLibraries.dll
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\obj\Debug\netcoreapp3.1\NpgcLibraries.pdb
+C:\Users\Administrator\RiderProjects\NpgcLibraries\NpgcLibraries\obj\Debug\netcoreapp3.1\NpgcLibraries.genruntimeconfig.cache
